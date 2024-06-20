@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaJuliaCodes
 - 👀 I’m interested in making games
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (https://github.com/torvalds/linux)[torvalds/linux]
+- 💞️ I’m looking to collaborate on the Linux kernel
 - 😄 Pronouns: she/her
